@@ -88,23 +88,6 @@ Build a high-performance network server that demonstrates:
 - [ ] **Performance Comparison**: Benchmark against thread pool implementation
 - [ ] **Resource Usage**: Compare memory and CPU usage between approaches
 
-## 🎯 Microsoft Role Alignment
-
-### Storage Role ✓
-- **Concurrent systems**: Handle thousands of concurrent clients
-- **Performance**: Low-latency request processing
-- **Scalability**: Thread pool design patterns used in Azure Storage
-
-### SONiC Networking Role ✓
-- **Network protocols**: Custom binary protocol implementation
-- **High throughput**: Event-driven I/O with epoll/kqueue
-- **Telemetry**: Built-in metrics and monitoring
-
-### Host Networking Role ✓
-- **Low-level networking**: TCP socket programming
-- **Performance optimization**: Zero-copy, memory pooling
-- **Multi-threading**: Production-grade concurrency patterns
-
 ## 🚀 Key Learning Areas
 
 1. **Network Programming**
